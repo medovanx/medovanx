@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Mohamed Darwesh<br></br`A>`A Computer Science student`</h1>
 
-<!--
-**medovanx/medovanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## **🧑‍💻 Programming languages I use**
+<div align="center">
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&&style=for-the-badge&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&&style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&&style=for-the-badge&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&&style=for-the-badge&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&&&style=for-the-badge&logoColor=white)
+
+</div>
+
+-----
+
+## **🧰 Frameworks and libraries**
+<div align="center">
+<br>
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
+
+
+-----
+## 🗄️ **Other things that I like to work with**
+<div align="center">
+<br>
+
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-2019-3776AB?logo=microsoft%20sql%20server&style=for-the-badge&logoColor=white)
+
+</div>
+
+-----
+<br>
+<div align="center">
+
+[![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=medovanx&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medovanx)](https://github.com/medovanx/github-readme-stats)
+
+</div>
