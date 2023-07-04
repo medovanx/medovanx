@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Mohamed Darwesh<br></br`A>`A Computer Science student`</h1>
+<h1 align="center">Hi, I'm Mohamed Darwesh</h1>
+<h5 align="center">A Computer Science student</h5>
 
 
 ## **🧑‍💻 Programming languages I use**
@@ -17,7 +18,6 @@
 
 ## **🧰 Frameworks and libraries**
 <div align="center">
-<br>
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
