@@ -15,7 +15,7 @@
 
 -----
 
-# **🧰 Frameworks and libraries**
+# **⚙️ Frameworks and libraries**
 <div align="center">
 
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&style=for-the-badge&logoColor=white)
@@ -24,9 +24,17 @@
 
 
 -----
+# **🛠️ Tools**
+<div align="center">
 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&style=for-the-badge&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=white)
 
-# 📩 You can find me at
+</div>
+
+-----
+
+# 📩 Social Platforms
 <div align="center">
   
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stackoverflow&style=for-the-badge&logoColor=white)](https://stackoverflow.com/users/17620209/mohamed-darwesh)
