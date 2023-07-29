@@ -8,6 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&&style=for-the-badge&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&&style=for-the-badge&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&&&style=for-the-badge&logoColor=white)
+![Markdown](https://img.shields.io/badge/-markdown-%23000000?&style=for-the-badge&logo=markdown&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medovanx)
 
@@ -29,7 +30,7 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&style=for-the-badge&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=white)
-
+![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 </div>
 
 -----
