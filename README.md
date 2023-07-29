@@ -55,7 +55,3 @@
 - **Repository:** [ Download-Time-Calculator](https://github.com/medovanx/Download-Time-Calculator)
 - **Description:** A simple application that tells you how long it will take to download a file based on its size and your internet speed.
 
-<div align="center">
-
-![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=medovanx&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-</div>
