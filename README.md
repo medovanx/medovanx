@@ -10,7 +10,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&&&style=for-the-badge&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-markdown-%23000000?&style=for-the-badge&logo=markdown&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medovanx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medovanx&layout=compact&langs_count=4)](https://github.com/medovanx/github-readme-stats)
 
 </div>
 
