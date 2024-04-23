@@ -43,22 +43,3 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white)](https://www.facebook.com/medovanx)
 
 </div>
-
-# 🔷 My Projects
-## Pixel Press
-- **Repository:** [ pixel-press](https://github.com/medovanx/pixel-press)
-- **Description:** Lightweight video processing tool designed for effortless compression and logo overlaying using ffmpeg.
-  
-## Graph Voyager
-- **Repository:** [graph-voyager](https://github.com/medovanx/graph-voyager)
-- **Description:** A GUI based application that demonstrates searching algorithms
-  
-## Win Rate Calculator
-
-- **Repository:** [win-rate-calculator](https://github.com/medovanx/win-rate-calculator)
-- **Description:** A simple application that tells you how many consecutive games you need to win to reach a certain win rate.
-
-## Download Time Calculator
-
-- **Repository:** [ download-time-calculator](https://github.com/medovanx/download-time-calculator)
-- **Description:** A simple application that tells you how long it will take to download a file based on its size and your internet speed.
