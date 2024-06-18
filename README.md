@@ -1,4 +1,5 @@
-![image](https://github.com/medovanx/medovanx/assets/29468096/dfed9657-d397-4436-916d-92b08efcf8d4)
+![image](https://github.com/medovanx/medovanx/assets/29468096/86475c89-e1d9-4dad-837c-29d4cd76e6f9)
+
 
 # **🧑‍💻 Languages**
 <div align="center">
