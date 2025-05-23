@@ -14,6 +14,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&&style=for-the-badge&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&&style=for-the-badge&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-markdown-%23000000?&style=for-the-badge&logo=markdown&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&style=for-the-badge&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medovanx&layout=compact&langs_count=4)](https://github.com/medovanx/github-readme-stats)
 
