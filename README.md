@@ -1,7 +1,5 @@
-![image](https://github.com/medovanx/medovanx/assets/29468096/86475c89-e1d9-4dad-837c-29d4cd76e6f9)
 
-
-# **🧑‍💻 Languages**
+# **Languages**
 <div align="center">
   
 
@@ -16,13 +14,11 @@
 ![Markdown](https://img.shields.io/badge/-markdown-%23000000?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&style=for-the-badge&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medovanx&layout=compact&langs_count=4)](https://github.com/medovanx/github-readme-stats)
-
 </div>
 
 -----
 
-# **⚙️ Frameworks and libraries**
+# **Frameworks and libraries**
 <div align="center">
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,7 +38,7 @@
 </div>
 
 -----
-# **🗃️ Databases**
+# **Databases**
 <div align="center">
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -51,7 +47,7 @@
 </div>
 
 -----
-# **🛠️ Tools**
+# **Tools**
 <div align="center">
   
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&style=for-the-badge&logoColor=white)
@@ -65,7 +61,7 @@
 
 -----
 
-# 📩 Social Platforms
+# Social Platforms
 <div align="center">
   
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stackoverflow&style=for-the-badge&logoColor=white)](https://stackoverflow.com/users/17620209/mohamed-darwesh)
