@@ -8,5 +8,6 @@ Software engineer in Egypt. I like building small, polished tools and understand
 - [Sky Glance](https://github.com/medovanx/sky-glance): weather in the taskbar, several cities and any date since 1940.
 - [Sunplus Channel Studio](https://github.com/medovanx/sunplus-channel-studio): channel list editor for Sunplus satellite receivers.
 - [MIMESIS patches](https://github.com/medovanx/mimesis-patches): 10-player lobbies for MIMESIS without a mod loader.
-
+- Many other stuff that are more interesting than what is above, but yeah unfortunately I cannot make it public ;)
+  
 Mostly C# and .NET on Windows, TypeScript and Next.js on the web, some C++ and Python.
